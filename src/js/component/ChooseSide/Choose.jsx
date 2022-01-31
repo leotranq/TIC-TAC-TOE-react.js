@@ -4,7 +4,7 @@ import "../ChooseSide/Choose.css";
 const ChooseSide = () => {
 	return (
 		<div className="chooseBody">
-			<strong>Choose your Weapon</strong>
+			<strong>Choose your side</strong>
 		</div>
 	);
 };

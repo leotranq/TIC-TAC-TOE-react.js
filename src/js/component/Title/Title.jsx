@@ -4,9 +4,7 @@ import "../Title/Title.css";
 const Title = () => {
 	return (
 		<div className="Title">
-			<h1>
-				<strong>Tic TAc Toe</strong>
-			</h1>
+			<h1>TiC tAc ToE</h1>
 		</div>
 	);
 };

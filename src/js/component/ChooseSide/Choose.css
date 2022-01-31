@@ -1,9 +1,16 @@
 .chooseBody{
-    border: solid black 2px;
-    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
-    height: 20rem;
-    width: 40rem;
+    background: cyan;
+    opacity: 0.8;
+    height: 8rem;
+    width: 12rem;
     z-index: 1;
     left: 20rem;
+    text-align: center; 
+    margin: auto;
+    display: block;
+}
 
+.Danger, .Mask{
+    height: 3rem;
+    
 }
