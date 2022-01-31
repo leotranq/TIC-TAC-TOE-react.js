@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.Title{
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Press Start 2P', cursive;   
+}
+
+.background{
+    background-color: black;
+    width: 100%;
+}
+

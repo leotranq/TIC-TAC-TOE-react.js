@@ -1,0 +1,13 @@
+.GameBody{
+    height: 40rem;
+    width: 60rem;
+    padding: 20rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: rgb(84,243,255);
+    background: linear-gradient(90deg, rgba(84,243,255,1) 0%, rgba(68,253,67,1) 51%, rgba(32,255,244,1) 100%);
+    z-index: -1;
+    position: absolute;
+    left: 20%;
+    
+}
